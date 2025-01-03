@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+body
+{
+    height: 100%;
+}
+.nav
+{
+padding: 20px 5%;
+display: flex;
+justify-content: space-between;
+align-items: center;
+position: sticky;
+z-index: 9;
+background-color: white;
+}
